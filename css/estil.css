@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0:
 }
+.titul{
+    height: 50%;
+    width: 100%;
+}
+.articles{
+    height: 1000%;
+    width: 100%;
+   float: left;
+}
+.articles{
+    float: left;
+}
